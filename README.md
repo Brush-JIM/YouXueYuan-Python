@@ -20,7 +20,7 @@ JavaScript版已经出来啦——19.3.23[GitHub](https://github.com/Brush-JIM/Y
 * 默认无声  
   
 # 日志
-CHANGELOG.md [GitHub](https://github.com/Brush-JIM/YouXueYuan/blob/master/CHANGELOG.md) or [Bitbucket](https://bitbucket.org/Brush-JIM/youxueyuan-python/src/master/)
+CHANGELOG.md [GitHub](https://github.com/Brush-JIM/YouXueYuan/blob/master/CHANGELOG.md) or [Bitbucket](https://bitbucket.org/Brush-JIM/youxueyuan-python/src/master/CHANGELOG.md?fileviewer=file-view-default)
   
 # 最后  
 有空的话再加个FireFox支持吧  
