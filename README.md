@@ -5,7 +5,7 @@ GitHub:[https://github.com/Brush-JIM/YouXueYuan-Python](https://github.com/Brush
 Bitbucket:[https://bitbucket.org/Brush-JIM/youxueyuan-python/](https://bitbucket.org/Brush-JIM/youxueyuan-python/)  
   
 只用来看“优学院”视频  
-JavaScript版已经出来啦——19.3.23[GitHub](https://github.com/Brush-JIM/YouXueYuan-JavaScript) or [https://bitbucket.org/Brush-JIM/youxueyuan-javascrpit](https://bitbucket.org/Brush-JIM/youxueyuan-javascrpit)  
+JavaScript版已经出来啦——19.3.23 [GitHub](https://github.com/Brush-JIM/YouXueYuan-JavaScript) or [Bitucket](https://bitbucket.org/Brush-JIM/youxueyuan-javascrpit)  
 
 # 食用方法  
 * 请下载与Google chrome对应版本的chromedriver，下载地址 [http://chromedriver.chromium.org/downloads](http://chromedriver.chromium.org/downloads)  
@@ -20,7 +20,7 @@ JavaScript版已经出来啦——19.3.23[GitHub](https://github.com/Brush-JIM/Y
 * 默认无声  
   
 # 日志
-CHANGELOG.md [GitHub](https://github.com/Brush-JIM/YouXueYuan/blob/master/CHANGELOG.md) or [Bitbucket](https://bitbucket.org/Brush-JIM/youxueyuan-python/src/master/CHANGELOG.md?fileviewer=file-view-default)
+CHANGELOG.md [GitHub](https://github.com/Brush-JIM/YouXueYuan-Python/blob/master/CHANGELOG.md) or [Bitbucket](https://bitbucket.org/Brush-JIM/youxueyuan-python/src/master/CHANGELOG.md?fileviewer=file-view-default)
   
 # 最后  
 有空的话再加个FireFox支持吧  
