@@ -5,7 +5,7 @@
 * 使用logging记录日志（Test项目很早就实现了，想着同步到这里，结果账号被标记了）
 
 ## 19.3.26
-* 感谢 [a2418701192](https://github.com/a2418701192) 反馈[问题](https://github.com/Brush-JIM/YouXueYuan-Python/issues/1)，让我发现了自己写的代码的问题太多了，于是决定重构  
+* 感谢 [a2418701192](https://github.com/a2418701192) 反馈 ~~[问题](https://github.com/Brush-JIM/YouXueYuan-Python/issues/1)~~（GitHub账户被标记后已经删除所有项目，所以Issues没了），让我发现了自己写的代码的问题太多了，于是决定重构  
 * 既然用电脑版实现了，就取消手机版，不重复造轮子了，这代码量真不想弄  
 * 这是第5次重构了，优学院的网页源代码和自己程序的代码恶心到自己了😂也可能是因为我能力太渣了  
 * 取消getpass模块，因为Pycharm不支持该模块，导致异常  
