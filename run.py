@@ -22,7 +22,7 @@ def Exit():
         driver.quit()
     except:
         pass
-    print ('程序终止，请将错误信息以及目录下的debug_run.log发送至E-Mail:Brush-JIM@protonmail.com')
+    print ('程序终止，请将错误信息以及目录下的debug_run.log发送至EMail:Brush-JIM@protonmail.com')
     input ('回车关闭')
     sys.exit()
 
