@@ -5,7 +5,7 @@ GitHub:[https://github.com/Brush-JIM/YouXueYuan-Python](https://github.com/Brush
 Bitbucket:[https://bitbucket.org/Brush-JIM/youxueyuan-python/](https://bitbucket.org/Brush-JIM/youxueyuan-python/)  
   
 只用来看“优学院”视频  
-JavaScript版已经出来啦——19.3.23 [GitHub](https://github.com/Brush-JIM/YouXueYuan-JavaScript) or [Bitucket](https://bitbucket.org/Brush-JIM/youxueyuan-javascrpit)  
+JavaScript版已经出来啦——19.3.23 [GitHub](https://github.com/Brush-JIM/YouXueYuan-JavaScript) or [Bitucket](https://bitbucket.org/Brush-JIM/youxueyuan-javascript)  
 
 # 食用方法  
 * 请下载与Google chrome对应版本的chromedriver，下载地址 [http://chromedriver.chromium.org/downloads](http://chromedriver.chromium.org/downloads)  
