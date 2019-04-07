@@ -15,6 +15,7 @@ JavaScript版已经出来啦——19.3.23 [GitHub](https://github.com/Brush-JIM/
 ②运行程序  
 
 # 注意
+* 答题请手动，项目没打算增加自动答题功能  
 * 在多次测试代码时，发现有时会自己暂停，需要在CMD或Power Shell窗口按回车才会继续，暂不知道原因，也可能是我自己的原因  
 * 最好在网络状态良好的情况下运行，否则可能会出现各种异常情况  
 * run.exe是在Windows10 x64 环境下，使用[pyinstaller](https://github.com/pyinstaller/pyinstaller)打包，所以x86理论上不能运行  
