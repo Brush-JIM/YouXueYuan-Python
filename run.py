@@ -2,7 +2,7 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import time,re,json,pickle,sys,os,logging
+import time,re,json,pickle,sys,os,logging,html5lib
 from collections import OrderedDict
 from bs4 import BeautifulSoup
 from pathlib import Path
