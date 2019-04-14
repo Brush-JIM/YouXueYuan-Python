@@ -4,6 +4,8 @@
 GitHub:[https://github.com/Brush-JIM/YouXueYuan-Python](https://github.com/Brush-JIM/YouXueYuan-Python)  
 Bitbucket:[https://bitbucket.org/Brush-JIM/youxueyuan-python/](https://bitbucket.org/Brush-JIM/youxueyuan-python/)  
   
+# Python版可能会因为电脑环境依赖原因（缺少模块什么的），无法正常运行，熟悉Python的可以查看什么原因，把环境依赖弄一下看看行不行。不行的话推荐使用JavaScript版  
+  
 只用来看“优学院”视频  
   
 JavaScript版已经出来啦——19.3.23 [GitHub](https://github.com/Brush-JIM/YouXueYuan-JavaScript) or [Bitucket](https://bitbucket.org/Brush-JIM/youxueyuan-javascript)  
